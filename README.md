@@ -1,1 +1,2 @@
-myFirst_C_ProgrammingLanguageProject
+my low level programming directory
+introduction to C programming language and its basics
